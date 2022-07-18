@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo2 {
+    position: absolute;
+    width: auto;
+    height: 100%;
+    left:5%;
+    user-select: none;
+    pointer-events: none;
+}
+
+.buttonGroup{
+    position: absolute;
+    right: 0%;
+    width: auto;
+    height: auto;
+}

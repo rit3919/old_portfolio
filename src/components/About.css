@@ -1,0 +1,43 @@
+.About{
+    display: block;
+    margin-top: 5%;
+    margin-bottom:5%;
+    width: 100%;
+    height: auto;
+}
+
+.About h1{
+    pointer-events: none;
+    font-family: "Arial";
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    user-select: none;
+    margin-top: 3%;
+}
+
+.MainSkillIcon{
+    position: relative;
+    margin: auto auto;
+    margin-left: 3%;
+    margin-top: 1%;
+    width: 70px;
+    height: auto;
+    pointer-events: none;
+    user-select: none;
+}
+
+.Icon {
+    position: relative;
+    margin: auto auto;
+    margin-left: 3%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+    width: 80px;
+    height: auto;
+    pointer-events: none;
+    user-select: none;
+}
+
+
+
