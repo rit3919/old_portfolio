@@ -2,11 +2,10 @@ import * as React from 'react';
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
-import Button from '@mui/material/Button';
-import useScrollTrigger from '@mui/material/useScrollTrigger';
-import logo from './../image/title.png';
-import './Header.css';
 
+import useScrollTrigger from '@mui/material/useScrollTrigger';
+import './Header.css';
+import Category from './ScrollButton';
 
 
 function ElevationScroll(props) {
@@ -28,6 +27,7 @@ function ElevationScroll(props) {
 
 
 
+
 export default function ButtonAppBar(props) {
     return (
         <Box sx={{ flexGrow: 1 }}>
@@ -36,44 +36,30 @@ export default function ButtonAppBar(props) {
                         backgroundColor: '#Fdfdfb',
                         
                     }}>
-        <Toolbar component="div">
-            <img src={logo} alt='logo' className='logo2' />
+                    <Toolbar component="div">
+                        
+            
+            
+                                  
+                        
             <div className='buttonGroup'>
-                <Button color="inherit" component="div" sx={{ 
-                    position: 'relative',
-                    height: '100%',
-                    fontFamily: 'Arial',
-                    fontSize: '2rem',
-                    fontWeight: 'bold',
-                    color: '#000000',
-                    textDecorationLine: 'underline',
-                    textTransform: 'none',
-                }}>
-                About
-                </Button>
-                <Button color="inherit" component="div" sx={{
-                    fontFamily: ['Arial'],
-                    position: 'relative',
-                    height: '100%',     
-                    fontSize: '2rem',
-                    fontWeight: 'bold',
-                    color: '#000000',
-                    textDecorationLine: 'underline',
-                    textTransform: 'none',
-                }}>Skills
-                </Button>
 
-            <Button color="inherit" component="div" sx={{
-                fontFamily: 'Arial',
-                fontSize: '2rem',
-                height: '100%',
-                position: 'relative',        
-                fontWeight: 'bold',
-                color: '#000000',
-                textDecorationLine: 'underline',
-                textTransform: 'none',
-            }}>Works
-                            </Button>
+                            
+
+                <Category warp='About'>
+                About
+                </Category>
+                            
+                <Category warp='Skills'>
+                Skills
+                </Category>
+                            
+
+                <Category warp='Works'>
+                Works
+                </Category>
+
+            
                             </div>
         </Toolbar>
           </AppBar>

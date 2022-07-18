@@ -2,7 +2,6 @@ import React from 'react';
 import '../App.css';
 import { motion } from "framer-motion/dist/framer-motion";
 import { Box } from '@mui/system';
-import Typography from '@mui/material/Typography';
 
 const wave1 = {
     hidden: {
@@ -77,7 +76,7 @@ function Wave() {
                 animate={wave3.visible}
 
             />
-            <Typography variant='p'sx={{display:'block',textAlign: 'center',zIndex:'1000',paddingBottom:'0%'}}>&copy;2022 Rin Takagi All rights reserved.</Typography>
+            
         </Box>
 
     )

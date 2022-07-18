@@ -18,7 +18,7 @@ function App() {
     return (
         <>
             <Header />
-            <Box>
+            <Box className='Top'>
                 
                 <Box className='wave'>
                     {/* <Wave /> */}
@@ -30,17 +30,17 @@ function App() {
                         <img src={logo} alt='logo' className='logo'></img>
                     </Box>
                 </Box>
-                <About className='About' />
-                <Skills className='Skills' />
-                <Works className='Works' />
+                <About/>
+                <Skills/>
+                <Works/>
                 
             </Box>
             
             <footer className='Copyright'>
 
+                <Typography variant='p'sx={{display:'block',textAlign: 'center',}}>&copy;2022 Rin Takagi All rights reserved.</Typography>
                 <Wave />
             
-                
             </footer>
         </>
 

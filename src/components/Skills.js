@@ -3,6 +3,7 @@ import Typography from '@mui/material/Typography';
 import Paper from '@mui/material/Paper';
 import SkillData from './SkillDialog';
 import './About.css';
+import { Box } from '@mui/system';
 
 const Title = {
     pointerEvents: 'none',
@@ -28,6 +29,7 @@ const PaperStyle = {
 function Skills() {
     return (
         <>
+            <Box className='Skills'>
             <Typography variant="h1" sx={Title}>Skill</Typography>
             <Paper className='Skill' sx={PaperStyle}>
                 <Typography variant='p' sx={{fontSize: '1.5rem',display: 'block',marginLeft:'1%'}}>具体的な作品を作ったスキルにボタンがあります。</Typography>
@@ -52,7 +54,8 @@ function Skills() {
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" className='Icon'/>
                 
           
-            </Paper>
+                </Paper>
+                </Box>
         </>
     );
 
