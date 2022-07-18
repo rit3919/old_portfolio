@@ -2,4 +2,4 @@
 
 ## myPortFoliosite
 
-https://www.github.com/rit3919/portfolio
+https://rit3919.github.io/portfolio/
