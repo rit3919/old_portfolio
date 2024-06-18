@@ -42,18 +42,18 @@ function Skills() {
           
                     <SkillData Name='React' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' alt='React' Content='このポートフォリオサイトを作成するために使用した。' />
 
-                    <SkillData  Name='java' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='java' Content='卒業研究でアンドロイドアプリケーションを作成するために使用' />
+                    <SkillData  Name='java' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='java' Content='高専時代の卒業研究でアンドロイドアプリケーションを作成するために使用' />
 
+                    <SkillData Name="Python"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python' Content='大学時代の卒業研究で使用'/>
+                    
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt='HTML' className='Icon' />
                     
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt='css' className='Icon'/>
-                    
           
-
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt='mysql' className='Icon' />
+
                     
                     
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" className='Icon'/>
                 
           
                 </Paper>
