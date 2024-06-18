@@ -59,14 +59,16 @@ function About() {
                     <Typography variant="h3" sx={TypoH3}>Name</Typography>
                 <Typography variant="p" sx={TypoP}>髙木　綸 / Takagi Rin</Typography>
             </Box>
-            
+            <Box></Box>
             <Box className='Belong'sx={category}>
                     <Typography variant="h3" sx={TypoH3}>Belong To</Typography>
-                    <Typography variant="p" sx = {TypoP}>島根大学　総合理工学部　知能情報デザイン学科</Typography>
+                    <Typography variant='p' sx={TypoP}>島根大学　自然科学研究科　理工学専攻</Typography>
             </Box>
                 <Box className='School' sx={category}>
-                    <Typography variant="h3"sx={TypoH3}>Background</Typography>
+                    <Typography variant="h3" sx={TypoH3}>Background</Typography>
                     <Typography variant="p" sx={TypoP}>香川高等専門学校　電気情報工学科 2022/3月卒業</Typography>
+                    <Typography variant="p" sx = {TypoP}>島根大学　総合理工学部　知能情報デザイン学科　2024/3月卒業</Typography>
+                    
                 </Box>
                 <Box className='School' sx={category}>
                     <Typography variant="h3"sx={TypoH3}>Qualification</Typography>
