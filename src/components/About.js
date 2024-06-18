@@ -72,8 +72,8 @@ function About() {
                 </Box>
                 <Box className='School' sx={category}>
                     <Typography variant="h3"sx={TypoH3}>Qualification</Typography>
-                    <Typography variant="p" sx={TypoP}>TOEIC 590点　2021/5</Typography>
                     <Typography variant="p" sx={TypoP}>基本情報技術者試験  2022/6</Typography>
+                    <Typography variant="p" sx={TypoP}>TOEIC 620点　2024/4</Typography>
                 </Box>
             </Paper>
         </Box>
