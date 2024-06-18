@@ -38,7 +38,7 @@ function App() {
             
             <footer className='Copyright'>
 
-                <Typography variant='p'sx={{display:'block',textAlign: 'center',}}>&copy;2022 Rin Takagi All rights reserved.</Typography>
+                <Typography variant='p'sx={{display:'block',textAlign: 'center',}}>&copy;2022-2024 Rin Takagi All rights reserved.</Typography>
                 <Wave />
             
             </footer>
