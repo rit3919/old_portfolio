@@ -20,7 +20,7 @@ const AboutPaper = {
 const TypoP = {
     fontFamily: 'Arial',
     position:'relative',
-    fontSize: '2rem',
+    fontSize: '200%',
     userSelect: 'none',
     display: 'block',
     marginLeft:'50px'   
