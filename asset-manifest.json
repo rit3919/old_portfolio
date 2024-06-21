@@ -1,17 +1,19 @@
 {
-  "main.css": "/portfolio/static/css/main.f099cbe4.chunk.css",
-  "main.js": "/portfolio/static/js/main.fdb8e7c0.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.fdb8e7c0.chunk.js.map",
-  "static/js/1.5fbdb5cd.chunk.js": "/portfolio/static/js/1.5fbdb5cd.chunk.js",
-  "static/js/1.5fbdb5cd.chunk.js.map": "/portfolio/static/js/1.5fbdb5cd.chunk.js.map",
-  "static/js/2.c4da3b3f.chunk.js": "/portfolio/static/js/2.c4da3b3f.chunk.js",
-  "static/js/2.c4da3b3f.chunk.js.map": "/portfolio/static/js/2.c4da3b3f.chunk.js.map",
-  "runtime~main.js": "/portfolio/static/js/runtime~main.4c1c3067.js",
-  "runtime~main.js.map": "/portfolio/static/js/runtime~main.4c1c3067.js.map",
-  "static/media/App.css": "/portfolio/static/media/bottomImg.aa22572b.png",
-  "static/media/title.png": "/portfolio/static/media/title.184936a0.png",
-  "static/css/main.f099cbe4.chunk.css.map": "/portfolio/static/css/main.f099cbe4.chunk.css.map",
-  "index.html": "/portfolio/index.html",
-  "precache-manifest.2d007277a3f347ae64297ddd8be3805d.js": "/portfolio/precache-manifest.2d007277a3f347ae64297ddd8be3805d.js",
-  "service-worker.js": "/portfolio/service-worker.js"
+  "files": {
+    "main.css": "/portfolio/static/css/main.010ee0de.chunk.css",
+    "main.js": "/portfolio/static/js/main.c6cad2c3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c6cad2c3.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.8285332f.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.8285332f.js.map",
+    "static/js/2.9015708e.chunk.js": "/portfolio/static/js/2.9015708e.chunk.js",
+    "static/js/2.9015708e.chunk.js.map": "/portfolio/static/js/2.9015708e.chunk.js.map",
+    "static/js/3.bb311e20.chunk.js": "/portfolio/static/js/3.bb311e20.chunk.js",
+    "static/js/3.bb311e20.chunk.js.map": "/portfolio/static/js/3.bb311e20.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f2766cf817131fc990f0f6be845fefb4.js": "/portfolio/precache-manifest.f2766cf817131fc990f0f6be845fefb4.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.010ee0de.chunk.css.map": "/portfolio/static/css/main.010ee0de.chunk.css.map",
+    "static/media/App.css": "/portfolio/static/media/bottomImg.aa22572b.png",
+    "static/media/title.png": "/portfolio/static/media/title.184936a0.png"
+  }
 }
