@@ -19,7 +19,7 @@
     "styled-reset": "^4.4.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://rit3919.github.io/portfolio",
+  "homepage": "https://rit3919.github.io/old_portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
