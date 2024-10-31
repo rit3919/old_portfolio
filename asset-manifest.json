@@ -1,19 +1,19 @@
 {
-  "files": {
-    "main.css": "/old_portfolio/static/css/main.7c9953dc.chunk.css",
-    "main.js": "/old_portfolio/static/js/main.c6cad2c3.chunk.js",
-    "main.js.map": "/old_portfolio/static/js/main.c6cad2c3.chunk.js.map",
-    "runtime~main.js": "/old_portfolio/static/js/runtime~main.dd676a73.js",
-    "runtime~main.js.map": "/old_portfolio/static/js/runtime~main.dd676a73.js.map",
-    "static/js/2.842bce45.chunk.js": "/old_portfolio/static/js/2.842bce45.chunk.js",
-    "static/js/2.842bce45.chunk.js.map": "/old_portfolio/static/js/2.842bce45.chunk.js.map",
-    "static/js/3.bb311e20.chunk.js": "/old_portfolio/static/js/3.bb311e20.chunk.js",
-    "static/js/3.bb311e20.chunk.js.map": "/old_portfolio/static/js/3.bb311e20.chunk.js.map",
-    "index.html": "/old_portfolio/index.html",
-    "precache-manifest.7a6fa8105052f7fd68ced9593fd8b8ae.js": "/old_portfolio/precache-manifest.7a6fa8105052f7fd68ced9593fd8b8ae.js",
-    "service-worker.js": "/old_portfolio/service-worker.js",
-    "static/css/main.7c9953dc.chunk.css.map": "/old_portfolio/static/css/main.7c9953dc.chunk.css.map",
-    "static/media/App.css": "/old_portfolio/static/media/bottomImg.aa22572b.png",
-    "static/media/title.png": "/old_portfolio/static/media/title.184936a0.png"
-  }
+  "main.css": "/old_portfolio/static/css/main.f103609d.chunk.css",
+  "main.js": "/old_portfolio/static/js/main.bc29163d.chunk.js",
+  "main.js.map": "/old_portfolio/static/js/main.bc29163d.chunk.js.map",
+  "static/js/1.78932a8e.chunk.js": "/old_portfolio/static/js/1.78932a8e.chunk.js",
+  "static/js/1.78932a8e.chunk.js.map": "/old_portfolio/static/js/1.78932a8e.chunk.js.map",
+  "static/js/2.7575e0a8.chunk.js": "/old_portfolio/static/js/2.7575e0a8.chunk.js",
+  "static/js/2.7575e0a8.chunk.js.map": "/old_portfolio/static/js/2.7575e0a8.chunk.js.map",
+  "runtime~main.js": "/old_portfolio/static/js/runtime~main.bfe7841b.js",
+  "runtime~main.js.map": "/old_portfolio/static/js/runtime~main.bfe7841b.js.map",
+  "static/media/App.css": "/old_portfolio/static/media/bottomImg.aa22572b.png",
+  "static/media/title.png": "/old_portfolio/static/media/title.184936a0.png",
+  "static/media/changeTable.gif": "/old_portfolio/static/media/changeTable.37e8c449.gif",
+  "static/media/reg.gif": "/old_portfolio/static/media/reg.193bcf76.gif",
+  "static/css/main.f103609d.chunk.css.map": "/old_portfolio/static/css/main.f103609d.chunk.css.map",
+  "index.html": "/old_portfolio/index.html",
+  "precache-manifest.d1eef41639fa1f23fdc4268ddd841b7c.js": "/old_portfolio/precache-manifest.d1eef41639fa1f23fdc4268ddd841b7c.js",
+  "service-worker.js": "/old_portfolio/service-worker.js"
 }
